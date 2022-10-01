@@ -1,5 +1,6 @@
-lemona
-de recipe:
+lemona de recipe:
 1. limon
 2. su
-3. nane
+3. şeker
+4.nane
+5.bardak
